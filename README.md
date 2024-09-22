@@ -1,5 +1,3 @@
-Here's the content formatted as a `README.md` file:
-
 ```markdown
 # CUDA Simple Kernel
 
